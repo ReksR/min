@@ -7,7 +7,7 @@
 <body>
 <header>
 <div class="main">
-<div class="logo"><img src="logo1.png"></div>
+<div class="logo"><img src="logo1.png.png"></div>
 <ul>
 <li class="active"><a href="#">Home</a></li>
 <li><a href="#">About me</a></li>
