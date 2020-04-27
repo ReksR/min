@@ -7,7 +7,7 @@
 <body>
 <header>
 <div class="main">
-<div class="logo"><img src="logo1.png.png"></div>
+<div class="logo"><img src="logo1.png"></div>
 <ul>
 <li class="active"><a href="#">Home</a></li>
 <li><a href="#">About me</a></li>
@@ -17,7 +17,7 @@
 </ul>
 </div>
 <div class="title">
-	<h1><i>Welcome to My Little World!!</i></h1>
+	<h1><i>Welcome to My Website!!</i></h1>
 </div>
 <div class="button">
 	<a href="#" class="btn">PASSION</a>
